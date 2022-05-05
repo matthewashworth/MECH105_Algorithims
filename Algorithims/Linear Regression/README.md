@@ -1,6 +1,6 @@
 # Linear Regression
 Will preform a linear regression on data set. Will also remove any values outside of the inner quartile range (removes outliers from data set)
-## Imputs 
+## Inputs 
 x- a vector with all the x values for the data points\
 y- a vector with all the y values for the data points\
 Note: x and y must contain the same number of values
